@@ -1,4 +1,4 @@
-# wifi no root #
+***more tools***
 
 $ pkg update && pkg upgrade
 
@@ -6,7 +6,7 @@ $ pkg install git
 
 $ pkg install python2
 
-$ git clone https://github.com/reyspeed/wifi
+$ git clone https://github.com/Saycon08/wifi
 
 $ cd wifi
 
